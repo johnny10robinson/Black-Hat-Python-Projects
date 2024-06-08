@@ -1,0 +1,1 @@
+All of these python scripts were inspired by projects in Black Hat Python. Some are heavily revised, while others are replicas from the book. The purpose of this to track my learning by creating useful penetration testing tools in python.
